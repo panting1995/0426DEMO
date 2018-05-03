@@ -1,0 +1,260 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+ul, li{
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    list-style-type: none;
+}
+i{
+    color: #61BFAD;
+}
+tr{
+    margin: 5px;
+}
+
+a {
+    color: #616C6F !important;
+}
+
+.title{
+    font-family: Microsoft JhengHei;
+    width: 85%;
+    background-color: #F7F7F7;
+    margin: auto;
+    padding: 3px;
+    text-align: center;
+    color: #616C6F;
+}
+.title2{
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+    width: 80%;
+    background-color: #BDCACD;
+    margin: auto;
+    padding: 3px;
+    text-align: center;
+    color: #616C6F;
+   
+}
+
+.title3{
+    width: 85%;
+    background-color: #BDCACD;
+    margin: auto;
+    margin-top:20px;
+    padding: 3px;
+    text-align: center;
+    color: #616C6F;
+    
+}
+.main{
+    
+    padding: 50px 50px 50px 50px ;
+    margin: 0;    
+}
+.main-left{
+    width: 20%;
+    height: 1000px;
+    background-color: #E1E1E1;
+    float: left;
+    padding: 20px 20px 20px 20px ;
+    
+    
+}
+.main-right{
+    width: 80%;
+    height: 1000px;
+    background-color: #F7F7F7;
+    float: right;
+    
+   
+}
+.logo{
+   clip-path: circle(50% at 50% 50%);
+   
+   border-color: #61BFAD;
+    width:80%;
+   
+}
+.contentone{
+    margin: 10px;
+
+}
+.contenttwo{
+    width: 100%;
+}
+table{
+    width: 100%;
+    margin-top: 20px;
+    display: block;
+   
+}
+.td_left{
+    
+    text-align: left;
+    line-height: 40px;
+    
+}
+.td_right{
+    width: 200px;
+    font-family: Microsoft JhengHei;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 15px;
+    line-height: 25px;
+    word-wrap:break-word;
+    word-break:break-all;
+  
+}
+.contentthree{
+    font-family: Microsoft JhengHei;
+    
+}
+.contentfour{
+   
+    font-family: Microsoft JhengHei;
+}
+.head{
+    font-size: 30px;
+}
+p {
+    font-family: Microsoft JhengHei;
+    width: 80%;
+    display: block;
+    margin:auto;
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 32px;
+}
+.img_rice2{
+    width: 60%;
+    display: block;
+    margin:auto;
+    padding-bottom: 30px;
+   
+}
+
+.chart{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin: 5px;
+}
+
+.contentfive li{
+    width: 50px;
+    float: left;
+    margin:9px;
+    text-align: center;
+    
+
+}
+
+.contentsix{
+    float: left;
+    margin: 3px;
+}
+.p1{
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Microsoft JhengHei;
+    margin: 0;
+}
+.p2{
+    width: 100%;
+    font-size: 14px;
+    font-family: Microsoft JhengHei;
+    margin: 0;
+    padding: 0;
+}
+.contentseven{
+    float: left;
+    margin: 3px;
+}
+.contenteight{
+    float: left;
+    margin: 3px;
+}
+svg{
+   height: 150px;
+   width: 150px;
+   margin-left: 50px;
+}
+.line{
+    width: 100px;
+    height: 100px;
+}
+.contentnine{
+    width: 100%;
+    
+    margin: auto;
+    margin-top: 3px;
+   
+}
+.p3{
+    width: 80%;
+    font-size: 16px;
+    font-family: Microsoft JhengHei;
+    margin: auto;
+    padding: 0;
+    font-weight: bold;
+   
+    
+    
+}
+.p4{
+    width: 80%;
+    font-size: 14px;
+    font-family: Microsoft JhengHei;
+    margin: auto;
+    padding: 0;
+    
+}
+.contentnine li{
+    width: 80%;
+    list-style: disc;
+    margin: auto;
+    text-align: left;
+}
+.contentten{
+    width: 100%;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+    
+    
+}
+
+.box1{
+    display: inline-block;
+    margin-left:50px; 
+    margin-right:50px;
+    
+    
+}
+.img_crown{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.clearfix{
+    clear:both;
+}
